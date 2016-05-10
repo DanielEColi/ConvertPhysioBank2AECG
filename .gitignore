@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+#other
+release
+debug
+*.zip
+./ConvertPhysioBank2Holter/Release
+./ConvertPhysioBank2Holter/Debug
+
